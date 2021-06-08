@@ -1,0 +1,137 @@
+.my-header-color
+{
+    background-color:WhiteSmoke;
+}
+
+ul
+{
+    color: blue;
+    bottom: 5px;
+}
+.bg{
+    background-image: url(img.jpg);
+}
+
+   
+    .bg-overlay {
+        background: linear-gradient(rgba(6, 1, 29, 0.288), rgba(35, 1, 97, 0.541)), url("htps://unsplash.imgix.net/photo-1416339442236-8ceb164046f8?q=75&fm=jpg&s=8eb83df8a744544977722717b1ea4d09");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        color: #fff;
+        height:450px;
+        padding-top: 50px;
+    }
+    .text
+    {
+        color: white;
+    }
+
+    body, html {
+        height: 100%;
+      }
+      
+      .parallax {
+        /* The image used */
+        background-image: url('img.jpg');
+      
+        /* Full height */
+        height: 100%; 
+      
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .section1
+      {
+          height: 485px;
+          width: 100%;
+          left: 0;
+      }
+      .h3-section1{
+          font-size:60px ;
+          
+      }
+      .section2{
+          height:309px ;
+          width: 100%;
+          left: 0;
+          background-color: blue;
+      }
+      .center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        
+      }
+      .h3-section2{
+        font-size:40px ;
+        font-family: "Times New Roman", Times, serif;
+
+        
+    }
+    .section3
+    {
+        height: 309px;
+        width: 100%;
+
+    }
+     .c {
+        line-height: 2;
+      }
+      .section4-first-h3
+      {
+        color: blue;
+      }
+      .svg{
+      color: blue;
+      
+      }
+      .section
+      {
+        height: 451px;
+        width: 100%;
+        left: 0%;
+        background-color: blue;
+      }
+      .sectionlast
+      {
+        height: 998px;
+        weight:100%;
+      }
+      input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+      
+      input[type=submit] {
+        background-color: #1504aa;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      input[type=submit]:hover {
+        background-color: #45a082;
+      }
+      
+      .containe {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+      }
+      .text-color
+      {
+        color: blue;
+      }
